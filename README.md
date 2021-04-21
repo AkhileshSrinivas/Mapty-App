@@ -6,7 +6,7 @@
 
 ![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619016023/YelpCamp/Mapty-flowchart_iooz7u.png)
 
-Mapty-App which uses Geolocation API is an Application where users can add, edit or delete there workouts using workout input form, and markup the workouts the map.
+Mapty-App which uses Geolocation API is an Application where users can add, edit or delete their workouts using workout input-form, and markup the workouts on the map.
 
 # Features
 
