@@ -1,10 +1,10 @@
 # Mapty-App
 
+![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619016385/YelpCamp/Screenshot_518_ubiqc7.png)
+
 ![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619015980/YelpCamp/Mapty-architecture-final_bpax3i.png)
 
 ![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619016023/YelpCamp/Mapty-flowchart_iooz7u.png)
-
-![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619016385/YelpCamp/Screenshot_518_ubiqc7.png)
 
 Mapty-App which uses Geolocation API is an Application where users can add, edit or delete there workouts using workout input form, and markup the workouts the map.
 
