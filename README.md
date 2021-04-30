@@ -13,7 +13,7 @@ Mapty-App which uses Geolocation API is an Application where users can add, edit
 - Ability to edit a workout
 - Ability to delete a workout
 - Ability to delete all workouts
-- Ability to sort workouts by a certaion fied(e.g.- distange)
+- Ability to sort workouts by a certaion fied(e.g.- distance)
 - Re-build Running and Cycling objects coming from- Local Storage
 - More realistic error and confirmation messages
 - Ability to position the map to show all workouts
